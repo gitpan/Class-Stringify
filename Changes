@@ -1,0 +1,7 @@
+Revision history for Perl extension Class::Stringify.
+
+0.001  Tue Oct 16 22:23:58 2001
+	- original version; created by h2xs 1.21 with options
+		-A -n Class::Stringify
+	- XS code written by Robby Walker
+

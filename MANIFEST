@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+Stringify.pm
+Stringify.xs
+test.pl
